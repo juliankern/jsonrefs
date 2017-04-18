@@ -1,0 +1,30 @@
+{
+  "name": "jsonrefs",
+  "version": "1.0.0",
+  "description": "Node tool to resolve \"_ref\" to other JSON files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliankern/jsonrefs.git"
+  },
+  "author": "Julian Kern <mail@juliankern.com> (https://juliankern.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juliankern/jsonrefs/issues"
+  },
+  "homepage": "https://github.com/juliankern/jsonrefs#readme",
+  "keywords": [
+    "node",
+    "json",
+    "ref",
+    "reference",
+    "resolve"
+  ],
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "objectpathlist": "^1.0.0"
+  }
+}
