@@ -38,14 +38,14 @@ jsonref.parse(require('../jsonrefs/test.json'));
 result:
 ```JSON
 { 
-    one: 1,
-    two: 2,
-    object: { 
-        child: { 
-            filename: 'other.json',
-            this: 'is',
-            a: 'test',
-            _oldref: 'other.json' 
+    "one": 1,
+    "two": 2,
+    "object": { 
+        "child": { 
+            "filename": "other.json",
+            "this": "is",
+            "a": "test",
+            "_oldref": "other.json" 
         } 
     } 
 }
