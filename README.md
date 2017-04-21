@@ -1,5 +1,5 @@
-# objectpathlist
-Converts an JS object to an object pathlist and back
+# jsonrefs
+Resolves "_ref" references in JS object to JSON files
 
 ## Usage
 ```shell
